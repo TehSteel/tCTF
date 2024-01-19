@@ -1,0 +1,5 @@
+name: ${project.name}
+version: ${project.version}
+main: ${mainClass}
+author: TehSteel
+api-version: 1.20
